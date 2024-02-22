@@ -6,6 +6,7 @@ A curated list of up to date post quantum cryptography (PQC) resources.
 ## Table of Contents
 1. [Publications](#publications)
 2. [Guides](#guides)
+3. [Implementations](#implementations)
 
 
 ---
@@ -23,3 +24,5 @@ A curated list of up to date post quantum cryptography (PQC) resources.
 - [Next steps in preparing for post-quantum cryptography](https://www.ncsc.gov.uk/whitepaper/next-steps-preparing-for-post-quantum-cryptography): Guidance to help organisations and CNI providers think about how to best prepare for the migration to post-quantum cryptography (PQC). National Cyber Security Centre (UK). Nov 3, 2023.
 - [Summary of NATO’s Quantum Technologies Strategy](https://www.nato.int/cps/en/natohq/official_texts_221777.htm): NATO. Jan 17, 2024.
 
+## Implementations
+- [The PQXDH Key Agreement Protocol](https://signal.org/docs/specifications/pqxdh/pqxdh.pdf) Signal. Jan 23, 2024
