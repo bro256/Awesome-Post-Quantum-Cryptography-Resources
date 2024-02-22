@@ -25,4 +25,5 @@ A curated list of up to date post quantum cryptography (PQC) resources.
 - [Summary of NATO’s Quantum Technologies Strategy](https://www.nato.int/cps/en/natohq/official_texts_221777.htm): NATO. Jan 17, 2024.
 
 ## Implementations
-- [The PQXDH Key Agreement Protocol](https://signal.org/docs/specifications/pqxdh/pqxdh.pdf) Signal. Jan 23, 2024
+- [The PQXDH Key Agreement Protocol](https://signal.org/docs/specifications/pqxdh/pqxdh.pdf): Signal. Jan 23, 2024
+- [Quantum Resistance and the Signal Protocol](https://signal.org/blog/pqxdh/): Signal. Sep 19, 2023
