@@ -27,3 +27,4 @@ A curated list of up to date post quantum cryptography (PQC) resources.
 ## Implementations
 - [The PQXDH Key Agreement Protocol](https://signal.org/docs/specifications/pqxdh/pqxdh.pdf): Signal. Jan 23, 2024
 - [Quantum Resistance and the Signal Protocol](https://signal.org/blog/pqxdh/): Signal. Sep 19, 2023
+- [Protecting Chrome Traffic with Hybrid Kyber KEM](https://blog.chromium.org/2023/08/protecting-chrome-traffic-with-hybrid.html): Chromium. Aug 10, 2023
