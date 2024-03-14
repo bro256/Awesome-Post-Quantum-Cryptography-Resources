@@ -25,6 +25,7 @@ A curated list of up to date post quantum cryptography (PQC) resources.
 - [Summary of NATO’s Quantum Technologies Strategy](https://www.nato.int/cps/en/natohq/official_texts_221777.htm): NATO. Jan 17, 2024.
 
 ## Implementations
+- [iMessage with PQ3: The new state of the art in quantum-secure messaging at scale](https://security.apple.com/blog/imessage-pq3/): Apple, Feb 21, 2024
 - [The PQXDH Key Agreement Protocol](https://signal.org/docs/specifications/pqxdh/pqxdh.pdf): Signal. Jan 23, 2024
 - [Cloudflare now uses post-quantum cryptography to talk to your origin server](https://blog.cloudflare.com/post-quantum-to-origins): CloudFlare. Sep 29, 2023
 - [Quantum Resistance and the Signal Protocol](https://signal.org/blog/pqxdh/): Signal. Sep 19, 2023
