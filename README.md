@@ -4,19 +4,24 @@ A curated list of up to date post quantum cryptography (PQC) resources.
 
 
 ## Table of Contents
-1. [Publications](#publications)
-2. [Guides](#guides)
-3. [Implementations](#implementations)
+1. [Standards](#standards)
+2. [Publications](#publications)
+3. [Guides](#guides)
+4. [Implementations](#implementations)
 
 
 ---
+
+## Standards
+- [FIPS 203](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.203.pdf) ML-KEM (Module-Lattice-Based Key-Encapsulation Mechanism Standard). Derived from CRYSTALS-Kyber.
+- [FIPS 204](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.204.pdf) ML-DSA (Module-Lattice-Based Digital Signature Standard). Derived from CRYSTALS-Dilithium.
+- [FIPS 205](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.205.pdf) SLH-DSA (Stateless Hash-Based Digital Signature Standard). Derived from SPHINCS+.
 
 ## Publications
 - [NIST SPECIAL PUBLICATION 1800-38A](https://www.nccoe.nist.gov/sites/default/files/2023-04/pqc-migration-nist-sp-1800-38a-preliminary-draft.pdf) Migration to Post-Quantum Cryptography: Preparation for Considering the Implementation and Adoption of Quantum Safe Cryptography.
 - [NIST SPECIAL PUBLICATION 1800-38B](https://www.nccoe.nist.gov/sites/default/files/2023-12/pqc-migration-nist-sp-1800-38b-preliminary-draft.pdf): Migration to Post-Quantum Cryptography Quantum Readiness: Cryptographic Discovery.
 - [NIST SPECIAL PUBLICATION 1800-38C](https://www.nccoe.nist.gov/sites/default/files/2023-12/pqc-migration-nist-sp-1800-38c-preliminary-draft.pdf): Migration t:o Post-Quantum Cryptography Quantum Readiness: Testing Draft Standards.
 - [Quantum-safe cryptography – fundamentals, current developments and recommendations](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Publications/Brochure/quantum-safe-cryptography.pdf?__blob=publicationFile&v=6): BSI. May 18, 2022.
-
 
 ## Guides
 - [Google's Threat model for Post-Quantum Cryptography](https://bughunters.google.com/blog/5108747984306176/google-s-threat-model-for-post-quantum-cryptography). Google. Mar 11, 2024.
