@@ -8,6 +8,7 @@ A curated list of up to date post quantum cryptography (PQC) resources.
 2. [Publications](#publications)
 3. [Guides](#guides)
 4. [Implementations](#implementations)
+5. [IETF](#ietf)
 
 
 ---
@@ -36,3 +37,6 @@ A curated list of up to date post quantum cryptography (PQC) resources.
 - [Cloudflare now uses post-quantum cryptography to talk to your origin server](https://blog.cloudflare.com/post-quantum-to-origins). CloudFlare. Sep 29, 2023
 - [Quantum Resistance and the Signal Protocol](https://signal.org/blog/pqxdh/). Signal. Sep 19, 2023
 - [Protecting Chrome Traffic with Hybrid Kyber KEM](https://blog.chromium.org/2023/08/protecting-chrome-traffic-with-hybrid.html). Chromium. Aug 10, 2023
+
+## IETF
+- [Hybrid key exchange in TLS 1.3](https://datatracker.ietf.org/doc/html/draft-ietf-tls-hybrid-design)
