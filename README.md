@@ -32,12 +32,13 @@ A curated list of up to date post quantum cryptography (PQC) resources.
 - [Summary of NATO’s Quantum Technologies Strategy](https://www.nato.int/cps/en/natohq/official_texts_221777.htm). NATO. Jan 17, 2024.
 
 ## Implementations
-- Google. [Advancing Our Amazing Bet on Asymmetric Cryptography](https://blog.chromium.org/2024/05/advancing-our-amazing-bet-on-asymmetric.html). May 23, 2024
-- Apple. [iMessage with PQ3: The new state of the art in quantum-secure messaging at scale](https://security.apple.com/blog/imessage-pq3/). Feb 21, 2024
-- Signal. [The PQXDH Key Agreement Protocol](https://signal.org/docs/specifications/pqxdh/pqxdh.pdf). Jan 23, 2024
-- CloudFlare. [Cloudflare now uses post-quantum cryptography to talk to your origin server](https://blog.cloudflare.com/post-quantum-to-origins). Sep 29, 2023
-- Signal. [Quantum Resistance and the Signal Protocol](https://signal.org/blog/pqxdh/). Sep 19, 2023
-- Google. [Protecting Chrome Traffic with Hybrid Kyber KEM](https://blog.chromium.org/2023/08/protecting-chrome-traffic-with-hybrid.html). Aug 10, 2023
+- Microsoft. [Introducing PQC Algorithms in SymCrypt](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-s-quantum-resistant-cryptography-is-here/ba-p/4238780). Sep 09, 2024.
+- Google. [Advancing Our Amazing Bet on Asymmetric Cryptography](https://blog.chromium.org/2024/05/advancing-our-amazing-bet-on-asymmetric.html). May 23, 2024.
+- Apple. [iMessage with PQ3: The new state of the art in quantum-secure messaging at scale](https://security.apple.com/blog/imessage-pq3/). Feb 21, 2024.
+- Signal. [The PQXDH Key Agreement Protocol](https://signal.org/docs/specifications/pqxdh/pqxdh.pdf). Jan 23, 2024.
+- CloudFlare. [Cloudflare now uses post-quantum cryptography to talk to your origin server](https://blog.cloudflare.com/post-quantum-to-origins). Sep 29, 2023.
+- Signal. [Quantum Resistance and the Signal Protocol](https://signal.org/blog/pqxdh/). Sep 19, 2023.
+- Google. [Protecting Chrome Traffic with Hybrid Kyber KEM](https://blog.chromium.org/2023/08/protecting-chrome-traffic-with-hybrid.html). Aug 10, 2023.
 
 ## IETF
 - [Hybrid key exchange in TLS 1.3](https://datatracker.ietf.org/doc/html/draft-ietf-tls-hybrid-design)
