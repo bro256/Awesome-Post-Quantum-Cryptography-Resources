@@ -25,6 +25,7 @@ A curated list of up to date post quantum cryptography (PQC) resources.
 - [Quantum-safe cryptography – fundamentals, current developments and recommendations](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Publications/Brochure/quantum-safe-cryptography.pdf?__blob=publicationFile&v=6): BSI. May 18, 2022.
 
 ## Guides
+- [Recommendation on a Coordinated Implementation Roadmap for the transition to Post-Quantum Cryptography](https://digital-strategy.ec.europa.eu/en/library/recommendation-coordinated-implementation-roadmap-transition-post-quantum-cryptography). European Commission. Apr 11, 2024.
 - [Google's Threat model for Post-Quantum Cryptography](https://bughunters.google.com/blog/5108747984306176/google-s-threat-model-for-post-quantum-cryptography). Google. Mar 11, 2024.
 - [PQC - Guidelines for Telco Use Cases - Executive Summary](https://www.gsma.com/newsroom/wp-content/uploads//PQC-Guidelines-for-Telco-Use-Cases-Executive-Summary.pdf). GSMA. Feb, 2024.
 - [Post Quantum Cryptography - Guidelines for Telco Use Cases](https://www.gsma.com/newsroom/wp-content/uploads//PQ.03-Post-Quantum-Cryptography-Guidelines-for-Telecom-Use-v1.0.pdf). GSMA. Feb 22, 2024.
