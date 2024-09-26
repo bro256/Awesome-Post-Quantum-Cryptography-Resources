@@ -1,5 +1,5 @@
 # Post-Quantum-Cryptography-Resources
-A curated list of up to date post quantum cryptography (PQC) resources.
+Awesome Post-Quantum Cryptography (PQC) Resources: A curated list of up-to-date resources on post-quantum cryptography.
 
 
 
