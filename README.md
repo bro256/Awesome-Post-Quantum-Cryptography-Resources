@@ -19,10 +19,12 @@ A curated list of up-to-date resources on post-quantum cryptography.
 - [FIPS 205](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.205.pdf) SLH-DSA (Stateless Hash-Based Digital Signature Standard). Derived from SPHINCS+. Aug 13, 2024.
 
 ## Publications
-- [NIST SPECIAL PUBLICATION 1800-38A](https://www.nccoe.nist.gov/sites/default/files/2023-04/pqc-migration-nist-sp-1800-38a-preliminary-draft.pdf) Migration to Post-Quantum Cryptography: Preparation for Considering the Implementation and Adoption of Quantum Safe Cryptography.
-- [NIST SPECIAL PUBLICATION 1800-38B](https://www.nccoe.nist.gov/sites/default/files/2023-12/pqc-migration-nist-sp-1800-38b-preliminary-draft.pdf): Migration to Post-Quantum Cryptography Quantum Readiness: Cryptographic Discovery.
-- [NIST SPECIAL PUBLICATION 1800-38C](https://www.nccoe.nist.gov/sites/default/files/2023-12/pqc-migration-nist-sp-1800-38c-preliminary-draft.pdf): Migration t:o Post-Quantum Cryptography Quantum Readiness: Testing Draft Standards.
-- [Quantum-safe cryptography – fundamentals, current developments and recommendations](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Publications/Brochure/quantum-safe-cryptography.pdf?__blob=publicationFile&v=6): BSI. May 18, 2022.
+- Google. [A new path for Kyber on the web](https://security.googleblog.com/2024/09/a-new-path-for-kyber-on-web.html) Sep 13, 2024.
+- IBM. [Developing with quantum-safe OpenSSL](https://developer.ibm.com/tutorials/awb-quantum-safe-openssl/). Aug 21, 2024.
+- NIST. [NIST SPECIAL PUBLICATION 1800-38A](https://www.nccoe.nist.gov/sites/default/files/2023-04/pqc-migration-nist-sp-1800-38a-preliminary-draft.pdf) Migration to Post-Quantum Cryptography: Preparation for Considering the Implementation and Adoption of Quantum Safe Cryptography.
+- NIST. [NIST SPECIAL PUBLICATION 1800-38B](https://www.nccoe.nist.gov/sites/default/files/2023-12/pqc-migration-nist-sp-1800-38b-preliminary-draft.pdf): Migration to Post-Quantum Cryptography Quantum Readiness: Cryptographic Discovery.
+- NIST. [NIST SPECIAL PUBLICATION 1800-38C](https://www.nccoe.nist.gov/sites/default/files/2023-12/pqc-migration-nist-sp-1800-38c-preliminary-draft.pdf): Migration t:o Post-Quantum Cryptography Quantum Readiness: Testing Draft Standards.
+- BSI. [Quantum-safe cryptography – fundamentals, current developments and recommendations](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Publications/Brochure/quantum-safe-cryptography.pdf?__blob=publicationFile&v=6): BSI. May 18, 2022.
 
 ## Guides
 - [Recommendation on a Coordinated Implementation Roadmap for the transition to Post-Quantum Cryptography](https://digital-strategy.ec.europa.eu/en/library/recommendation-coordinated-implementation-roadmap-transition-post-quantum-cryptography). European Commission. Apr 11, 2024.
@@ -33,7 +35,6 @@ A curated list of up-to-date resources on post-quantum cryptography.
 - [Summary of NATO’s Quantum Technologies Strategy](https://www.nato.int/cps/en/natohq/official_texts_221777.htm). NATO. Jan 17, 2024.
 
 ## Implementations
-- Google. [A new path for Kyber on the web](https://security.googleblog.com/2024/09/a-new-path-for-kyber-on-web.html) Sep 13, 2024.
 - Microsoft. [Introducing PQC Algorithms in SymCrypt](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-s-quantum-resistant-cryptography-is-here/ba-p/4238780). Sep 09, 2024.
 - Google. [Advancing Our Amazing Bet on Asymmetric Cryptography](https://blog.chromium.org/2024/05/advancing-our-amazing-bet-on-asymmetric.html). May 23, 2024.
 - Apple. [iMessage with PQ3: The new state of the art in quantum-secure messaging at scale](https://security.apple.com/blog/imessage-pq3/). Feb 21, 2024.
