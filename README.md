@@ -36,6 +36,7 @@ A curated list of up-to-date resources on post-quantum cryptography.
 - NATO. [Summary of NATO’s Quantum Technologies Strategy](https://www.nato.int/cps/en/natohq/official_texts_221777.htm). Jan 17, 2024.
 
 ## Implementations
+- AWS. [Customer compliance and security during the post-quantum cryptographic migration](https://aws.amazon.com/blogs/security/customer-compliance-and-security-during-the-post-quantum-cryptographic-migration/). Oct 03, 2024.
 - NordVPN. [NordVPN launches first app with post-quantum encryption support](https://nordvpn.com/blog/nordvpn-linux-post-quantum-encryption-support/). Sep 30, 2024.
 - Microsoft. [Introducing PQC Algorithms in SymCrypt](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-s-quantum-resistant-cryptography-is-here/ba-p/4238780). Sep 09, 2024.
 - Google. [Advancing Our Amazing Bet on Asymmetric Cryptography](https://blog.chromium.org/2024/05/advancing-our-amazing-bet-on-asymmetric.html). May 23, 2024.
