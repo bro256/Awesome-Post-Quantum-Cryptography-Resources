@@ -56,5 +56,11 @@ Post-quantum cryptography (PQC) is a critical area of research and development t
  
 
 ## Contributions  
-Contributions are welcome! If you know of any resources, publications, or updates, feel free to submit a pull request or open an issue.  
+Contributions are welcome! If you know of any trusted and reliable resources, publications, or updates, feel free to submit a pull request or open an issue.  
+
+Please ensure that all contributions:  
+1. **Are from credible sources** such as academic journals, recognized organizations, or official standards bodies.  
+2. **Include proper references** (e.g., links to original publications or announcements).  
+3. Are relevant to the field of post-quantum cryptography.  
+
 
