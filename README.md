@@ -50,3 +50,8 @@ A curated list of up-to-date resources on post-quantum cryptography.
 ## IETF
 - [TLS Key Share Prediction](https://datatracker.ietf.org/doc/draft-ietf-tls-key-share-prediction)
 - [Hybrid key exchange in TLS 1.3](https://datatracker.ietf.org/doc/html/draft-ietf-tls-hybrid-design)
+ 
+
+## Contributions  
+Contributions are welcome! If you know of any resources, publications, or updates, feel free to submit a pull request or open an issue.  
+
