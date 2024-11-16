@@ -2,6 +2,9 @@
 A curated list of up-to-date resources on post-quantum cryptography.
 
 
+## Introduction
+Post-quantum cryptography (PQC) is a critical area of research and development to secure our digital world against future quantum computing threats. This repository is a curated collection of the latest standards, publications, and resources to help developers, researchers, and organizations transition to quantum-resistant cryptographic systems.
+
 
 ## Table of Contents
 1. [Standards](#standards)
