@@ -22,6 +22,7 @@ Post-quantum cryptography (PQC) is a critical area of research and development t
 - [FIPS 205](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.205.pdf) SLH-DSA (Stateless Hash-Based Digital Signature Standard). Derived from SPHINCS+. Aug 13, 2024.
 
 ## Publications
+- [Securing Tomorrow, Today: Transitioning to Post-Quantum Cryptography](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Crypto/PQC-joint-statement.pdf?__blob=publicationFile&v=3). BSI. Nov 27. 2024.
 - [NIST IR 8547 (Initial Public Draft)](https://csrc.nist.gov/pubs/ir/8547/ipd): Transition to Post-Quantum Cryptography Standards. NIST. Nov 24, 2024.
 - [A look at the latest post-quantum signature standardization candidates](https://blog.cloudflare.com/another-look-at-pq-signatures/). Cloudflare. Nov 7, 2024.
 - [Begin Transitioning to Post-Quantum Cryptography Now](https://www.gartner.com/en/articles/post-quantum-cryptography). Gartner. Sep 30, 2024.
