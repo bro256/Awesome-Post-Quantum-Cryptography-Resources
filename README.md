@@ -59,7 +59,7 @@ Post-quantum cryptography (PQC) is a critical area of research and development t
 - [TLS Key Share Prediction](https://datatracker.ietf.org/doc/draft-ietf-tls-key-share-prediction)
 - [Hybrid key exchange in TLS 1.3](https://datatracker.ietf.org/doc/html/draft-ietf-tls-hybrid-design)
 
-## EBOOKS AND HANDBOOKS
+## eBooks and Handbooks
 - [The PQC Migration Handbook](https://publications.tno.nl/publication/34641918/oicFLj/attema-2023-pqc.pdf). TNO. Dec, 2023.
  
 
