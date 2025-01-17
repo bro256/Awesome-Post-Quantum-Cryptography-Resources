@@ -56,6 +56,9 @@ Post-quantum cryptography (PQC) is a critical area of research and development t
 - [Quantum Resistance and the Signal Protocol](https://signal.org/blog/pqxdh/). Signal. Sep 19, 2023.
 - [Protecting Chrome Traffic with Hybrid Kyber KEM](https://blog.chromium.org/2023/08/protecting-chrome-traffic-with-hybrid.html). Google. Aug 10, 2023.
 
+## Communities
+- [PKI Consortium](https://pkic.org/)
+
 ## Software and Tools
  - [Open Quantum Safe](https://openquantumsafe.org/)
 
