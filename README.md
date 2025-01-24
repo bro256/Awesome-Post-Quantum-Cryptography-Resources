@@ -21,6 +21,9 @@ Post-quantum cryptography (PQC) is a critical area of research and development t
 - [FIPS 204](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.204.pdf) ML-DSA (Module-Lattice-Based Digital Signature Standard). Derived from CRYSTALS-Dilithium. Aug 13, 2024.
 - [FIPS 205](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.205.pdf) SLH-DSA (Stateless Hash-Based Digital Signature Standard). Derived from SPHINCS+. Aug 13, 2024.
 
+  ## eBooks and Handbooks
+- [The PQC Migration Handbook](https://english.aivd.nl/publications/publications/2024/12/3/the-pqc-migration-handbook). AIVD, CWI, TNO. Dec, 2024.
+
 ## Publications
 - [Securing Tomorrow, Today: Transitioning to Post-Quantum Cryptography](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Crypto/PQC-joint-statement.pdf?__blob=publicationFile&v=3). BSI. Nov 27. 2024.
 - [NIST IR 8547 (Initial Public Draft)](https://csrc.nist.gov/pubs/ir/8547/ipd): Transition to Post-Quantum Cryptography Standards. NIST. Nov 24, 2024.
@@ -65,11 +68,7 @@ Post-quantum cryptography (PQC) is a critical area of research and development t
 ## IETF
 - [TLS Key Share Prediction](https://datatracker.ietf.org/doc/draft-ietf-tls-key-share-prediction)
 - [Hybrid key exchange in TLS 1.3](https://datatracker.ietf.org/doc/html/draft-ietf-tls-hybrid-design)
-
-## eBooks and Handbooks
-- [The PQC Migration Handbook](https://publications.tno.nl/publication/34641918/oicFLj/attema-2023-pqc.pdf). TNO. Dec, 2023.
  
-
 ## Contributions  
 Contributions are welcome! If you know of any trusted and reliable resources, publications, or updates, feel free to submit a pull request or open an issue.  
 
