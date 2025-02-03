@@ -65,6 +65,9 @@ Post-quantum cryptography (PQC) is a critical area of research and development t
 ## Software and Tools
  - [Open Quantum Safe](https://openquantumsafe.org/)
 
+## Video
+- [PKI Consortium YouTube Channel ](https://youtube.com/@PKIConsortium/)
+
 ## IETF
 - [TLS Key Share Prediction](https://datatracker.ietf.org/doc/draft-ietf-tls-key-share-prediction)
 - [Hybrid key exchange in TLS 1.3](https://datatracker.ietf.org/doc/html/draft-ietf-tls-hybrid-design)
