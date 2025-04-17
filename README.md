@@ -25,9 +25,10 @@ Post-quantum cryptography (PQC) is a critical area of research and development t
 - [The PQC Migration Handbook](https://english.aivd.nl/publications/publications/2024/12/3/the-pqc-migration-handbook). AIVD, CWI, TNO. Dec, 2024.
 
 ## Events
-- [Post-Quantum Cryptography Conference](https://pkic.org/events/2025/pqc-conference-austin-us/) PKI Consortium. Jan, 2025.
+- [Post-Quantum Cryptography Conference](https://pkic.org/events/2025/pqc-conference-austin-us/). PKI Consortium. Jan, 2025.
 
 ## Publications
+- [Quantum Threat Timeline Report 2024]. Global Risk Institute. Dec 6, 2024
 - [Quantum Safe Financial Forum - A call to action](https://www.europol.europa.eu/cms/sites/default/files/documents/Quantum-safe-financial-forum-2025.pdf). Europol. Feb 7, 2025
 - [Post Quantum Computing Security](https://www.5gamericas.org/wp-content/uploads/2025/02/WP_PQCS-.pdf). 5G Americas. Feb, 2025.
 - [Securing Tomorrow, Today: Transitioning to Post-Quantum Cryptography](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Crypto/PQC-joint-statement.pdf?__blob=publicationFile&v=3). BSI. Nov 27, 2024.
