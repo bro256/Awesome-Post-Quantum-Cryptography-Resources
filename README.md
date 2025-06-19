@@ -60,6 +60,7 @@ Post-quantum cryptography (PQC) is a critical area of research and development t
 - [Summary of NATO’s Quantum Technologies Strategy](https://www.nato.int/cps/en/natohq/official_texts_221777.htm). NATO. Jan 17, 2024.
 
 ## Implementations
+- [Prepare your network for quantum-secure encryption in TLS](https://support.apple.com/en-us/122756). Apple. June 09, 2025.
 - [Introducing PQC Algorithms in SymCrypt](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-s-quantum-resistant-cryptography-is-here/ba-p/4238780). Microsoft. Sep 09, 2024. Updated Dec 18, 2024
 - [Customer compliance and security during the post-quantum cryptographic migration](https://aws.amazon.com/blogs/security/customer-compliance-and-security-during-the-post-quantum-cryptographic-migration/). AWS. Oct 03, 2024.
 - [NordVPN launches first app with post-quantum encryption support](https://nordvpn.com/blog/nordvpn-linux-post-quantum-encryption-support/). NordVPN. Sep 30, 2024.
