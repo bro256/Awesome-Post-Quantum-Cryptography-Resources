@@ -28,7 +28,8 @@ Post-quantum cryptography (PQC) is a critical area of research and development t
 - [Post-Quantum Cryptography Conference](https://pkic.org/events/2025/pqc-conference-austin-us/). PKI Consortium. Jan, 2025.
 
 ## Publications
-- [A Coordinated Implementation Roadmap for the Transition to Post-Quantum Cryptography](https://digital-strategy.ec.europa.eu/en/library/coordinated-implementation-roadmap-transition-post-quantum-cryptography) European Commission. June 23, 2025.
+- [Ballot SMC013: Enable PQC Algorithms for S/MIME](https://cabforum.org/2025/07/02/ballot-smc-013/). CA/Browser Forum. Jul 2, 2025
+- [A Coordinated Implementation Roadmap for the Transition to Post-Quantum Cryptography](https://digital-strategy.ec.europa.eu/en/library/coordinated-implementation-roadmap-transition-post-quantum-cryptography). European Commission. June 23, 2025.
 - [Post-Quantum Cryptography Migration Roadmap](https://pqcc.org/wp-content/uploads/2025/05/PQC-Migration-Roadmap-PQCC-2.pdf). Post-Quantum Cryptography Coalition. May, 2025.
 - [Post-Quantum Cryptography Comes to Windows Insiders and Linux](https://techcommunity.microsoft.com/blog/microsoft-security-blog/post-quantum-cryptography-comes-to-windows-insiders-and-linux/4413803). Microsoft. May 19, 2025.
 - [Prepping for post-quantum: a beginner’s guide to lattice cryptography](https://blog.cloudflare.com/lattice-crypto-primer/). Cloudflare. Mar 21, 2025.
