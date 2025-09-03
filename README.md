@@ -34,6 +34,7 @@ Post-quantum cryptography (PQC) is a critical area of research and development t
 - [Post-Quantum Cryptography Conference](https://pkic.org/events/2025/pqc-conference-austin-us/). PKI Consortium. Jan, 2025.
 
 ## Publications
+- [Performance and Storage Analysis of CRYSTALS Kyber as a Post Quantum Replacement for RSA and ECC](https://arxiv.org/abs/2508.01694v1). Cornell University. latest version Aug 30, 2025.
 - [Ballot SMC013: Enable PQC Algorithms for S/MIME](https://cabforum.org/2025/07/02/ballot-smc-013/). CA/Browser Forum. Jul 2, 2025.
 - [A Coordinated Implementation Roadmap for the Transition to Post-Quantum Cryptography](https://digital-strategy.ec.europa.eu/en/library/coordinated-implementation-roadmap-transition-post-quantum-cryptography). European Commission. June 23, 2025.
 - [Post-Quantum Cryptography Migration Roadmap](https://pqcc.org/wp-content/uploads/2025/05/PQC-Migration-Roadmap-PQCC-2.pdf). Post-Quantum Cryptography Coalition. May, 2025.
