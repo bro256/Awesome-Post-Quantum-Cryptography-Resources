@@ -13,7 +13,11 @@ Post-quantum cryptography (PQC) is a critical area of research and development t
 4. [Publications](#publications)
 5. [Guides](#guides)
 6. [Implementations](#implementations)
-7. [IETF](#ietf)
+7. [Communities](#communities)
+8. [Software and Tools](#software-and-tools)
+9. [Video](#video)
+10. [IETF](#ietf)
+11. [Contributions](#contributions)
 
 
 ---
