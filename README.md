@@ -1,9 +1,17 @@
-# Awesome-Post-Quantum-Cryptography-Resources
-A curated list of up-to-date resources on post-quantum cryptography.
+# 🔒 Awesome Post-Quantum Cryptography Resources  
+A curated collection of cutting-edge resources on **post-quantum cryptography (PQC)**.  
 
+## 📖 Introduction  
+Quantum computers will one day be powerful enough to break today’s widely used cryptographic systems, such as RSA and ECC.  
+To prepare for this shift, **post-quantum cryptography (PQC)** is being developed to ensure our digital world remains secure in the quantum era.  
 
-## Introduction
-Post-quantum cryptography (PQC) is a critical area of research and development to secure our digital world against future quantum computing threats. This repository is a curated collection of the latest standards, publications, and resources to help developers, researchers, and organizations transition to quantum-resistant cryptographic systems.
+This repository brings together:  
+- 📜 **Standards & drafts** from NIST, IETF, and other bodies.  
+- 📚 **Handbooks, guides, and migration strategies** for organizations.  
+- 🛠 **Implementations, tools, and software** to experiment with PQC today.  
+- 🔬 **Research papers, publications, and events** driving the field forward.  
+
+Whether you’re a **developer**, **researcher**, or **security architect**, this list will help you stay up-to-date and navigate the transition toward **quantum-resistant cryptographic systems**. 
 
 
 ## Table of Contents
