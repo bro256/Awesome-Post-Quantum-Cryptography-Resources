@@ -16,14 +16,14 @@ Whether you’re a **developer**, **researcher**, or **security architect**, thi
 
 ## Table of Contents
 1. [Standards](#standards)
-2. [eBooks and Handbooks](#ebooks-and-handbooks)
-3. [Events](#events)
-4. [Publications](#publications)
-5. [Guides](#guides)
+2. [Books and Handbooks](#books-and-handbooks)
+3. [Conferences and Events](#conferences-and-events)
+4. [Research & Publications](#research-and-publications)
+5. [Migration Guides and Strategies](#migration-guides-and-strategies)
 6. [Implementations](#implementations)
 7. [Communities](#communities)
 8. [Software and Tools](#software-and-tools)
-9. [Video](#video)
+9. [Talks & Videos](#talks-and-videos)
 10. [IETF](#ietf)
 11. [Contributions](#contributions)
 
@@ -35,13 +35,13 @@ Whether you’re a **developer**, **researcher**, or **security architect**, thi
 - [FIPS 204](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.204.pdf) ML-DSA (Module-Lattice-Based Digital Signature Standard). Derived from CRYSTALS-Dilithium. Aug 13, 2024.
 - [FIPS 205](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.205.pdf) SLH-DSA (Stateless Hash-Based Digital Signature Standard). Derived from SPHINCS+. Aug 13, 2024.
 
-## eBooks and Handbooks
+## Books and Handbooks
 - [The PQC Migration Handbook](https://english.aivd.nl/publications/publications/2024/12/3/the-pqc-migration-handbook). AIVD, CWI, TNO. Dec, 2024.
 
-## Events
+## Conferences and Events
 - [Post-Quantum Cryptography Conference](https://pkic.org/events/2025/pqc-conference-austin-us/). PKI Consortium. Jan, 2025.
 
-## Publications
+## Research and Publications
 - [Performance and Storage Analysis of CRYSTALS Kyber as a Post Quantum Replacement for RSA and ECC](https://arxiv.org/abs/2508.01694v1). Cornell University. Aug 30, 2025.
 - [Quantum-safe security: Progress towards next-generation cryptography](https://www.microsoft.com/en-us/security/blog/2025/08/20/quantum-safe-security-progress-towards-next-generation-cryptography/). Microsoft. Aug 20, 2025.
 - [Ballot SMC013: Enable PQC Algorithms for S/MIME](https://cabforum.org/2025/07/02/ballot-smc-013/). CA/Browser Forum. Jul 2, 2025.
@@ -68,7 +68,7 @@ Whether you’re a **developer**, **researcher**, or **security architect**, thi
 - [Quantum-safe cryptography – fundamentals, current developments and recommendations](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Publications/Brochure/quantum-safe-cryptography.pdf?__blob=publicationFile&v=6). BSI. May 18, 2022.
 - [ANSSI views on the Post-Quantum Cryptography transition](https://cyber.gouv.fr/en/publications/anssi-views-post-quantum-cryptography-transition). ANSSI. Jan 4, 2022.
 
-## Guides
+## Migration Guides and Strategies
 - [Guidelines for Cryptography](https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/ism/cyber-security-guidelines/guidelines-cryptography). Australian Signals Directorate. 12 Dec, 2024.
 - [Recommendation on a Coordinated Implementation Roadmap for the transition to Post-Quantum Cryptography](https://digital-strategy.ec.europa.eu/en/library/recommendation-coordinated-implementation-roadmap-transition-post-quantum-cryptography). European Commission. Apr 11, 2024.
 - [Google's Threat model for Post-Quantum Cryptography](https://bughunters.google.com/blog/5108747984306176/google-s-threat-model-for-post-quantum-cryptography). Google. Mar 11, 2024.
@@ -97,7 +97,7 @@ Whether you’re a **developer**, **researcher**, or **security architect**, thi
 ## Software and Tools
  - [Open Quantum Safe](https://openquantumsafe.org/)
 
-## Video
+## Talks and Videos
 - [PKI Consortium YouTube Channel ](https://youtube.com/@PKIConsortium/)
 
 ## IETF
