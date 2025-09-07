@@ -104,16 +104,16 @@ Whether you’re a **developer**, **researcher**, or **security architect**, thi
 - [TLS Key Share Prediction](https://datatracker.ietf.org/doc/draft-ietf-tls-key-share-prediction)
 - [Hybrid key exchange in TLS 1.3](https://datatracker.ietf.org/doc/html/draft-ietf-tls-hybrid-design)
  
-## Contributions  
+## Contributions
 
-We welcome and encourage contributions!  
-This project thrives on community input — from researchers, engineers, and enthusiasts alike.  
+We welcome and encourage contributions!
+This project thrives on community input — from researchers, engineers, and enthusiasts alike.
 
 ### How to Contribute
-1. **Check for duplicates** – ensure the resource isn’t already listed.  
-2. **Use credible sources** – academic papers, official standards, recognized organizations, or trusted industry blogs.  
-3. **Provide full references** – include title, author/organization, date (if available), and a working link.  
-4. **Keep it relevant** – focus on post-quantum cryptography and quantum-safe security.  
+1. **Check for duplicates** – ensure the resource isn’t already listed.
+2. **Use credible sources** – academic papers, official standards, recognized organizations, or trusted industry blogs.
+3. **Provide full references** – include title, author/organization, date (if available), and a working link.
+4. **Keep it relevant** – focus on post-quantum cryptography and quantum-safe security.
 
 ### Contribution Examples
 - Add new **publications, events, or standards**.
@@ -124,4 +124,7 @@ This project thrives on community input — from researchers, engineers, and ent
 ### How to Submit
 - **Pull Requests (preferred):** Add your resource directly to the right section.
 - **Issues:** If you’re unsure where something fits, open an issue with details.
+
+📌 Please use this format when adding resources:
+- [Title](URL) — Short description. Organization/Author. Month Day, Year.
 
