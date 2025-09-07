@@ -97,11 +97,23 @@ Post-quantum cryptography (PQC) is a critical area of research and development t
 - [Hybrid key exchange in TLS 1.3](https://datatracker.ietf.org/doc/html/draft-ietf-tls-hybrid-design)
  
 ## Contributions  
-Contributions are welcome! If you know of any trusted and reliable resources, publications, or updates, feel free to submit a pull request or open an issue.  
 
-Please ensure that all contributions:  
-1. **Are from credible sources** such as academic journals, recognized organizations, or official standards bodies.  
-2. **Include proper references** (e.g., links to original publications or announcements).  
-3. Are relevant to the field of post-quantum cryptography.  
+We welcome and encourage contributions!  
+This project thrives on community input — from researchers, engineers, and enthusiasts alike.  
 
+### How to Contribute
+1. **Check for duplicates** – ensure the resource isn’t already listed.  
+2. **Use credible sources** – academic papers, official standards, recognized organizations, or trusted industry blogs.  
+3. **Provide full references** – include title, author/organization, date (if available), and a working link.  
+4. **Keep it relevant** – focus on post-quantum cryptography and quantum-safe security.  
+
+### Contribution Examples
+- Add new **publications, events, or standards**.
+- Suggest **tools, libraries, or implementations**.
+- Report **outdated or broken links**.
+- Improve **organization or categorization** of resources.
+
+### How to Submit
+- **Pull Requests (preferred):** Add your resource directly to the right section.
+- **Issues:** If you’re unsure where something fits, open an issue with details.
 
