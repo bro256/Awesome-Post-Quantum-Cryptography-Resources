@@ -101,6 +101,7 @@ Whether you’re a **developer**, **researcher**, or **security architect**, thi
  - [Open Quantum Safe](https://openquantumsafe.org/)
 
 ## Talks and Videos
+- [OpenSSL Conference](https://www.youtube.com/@OpenSSLConference)
 - [PKI Consortium YouTube Channel ](https://youtube.com/@PKIConsortium/)
 
 ## IETF
