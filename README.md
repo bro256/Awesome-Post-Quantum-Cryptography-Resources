@@ -80,6 +80,7 @@ Whether you’re a **developer**, **researcher**, or **security architect**, thi
 - [Summary of NATO’s Quantum Technologies Strategy](https://www.nato.int/cps/en/natohq/official_texts_221777.htm). NATO. Jan 17, 2024.
 
 ## Implementations
+- [Post-Quantum Cryptography APIs Now Generally Available on Microsoft Platforms](https://techcommunity.microsoft.com/blog/microsoft-security-blog/post-quantum-cryptography-apis-now-generally-available-on-microsoft-platforms/4469093). Microsoft. Nov 18, 2025
 - [Fortinet adds quantum-safe encryption to FortiOS 7.6 update](https://www.fortinet.com/corporate/about-us/newsroom/press-releases/2025/fortinet-advances-quantum-safe-security-to-guard-against-emerging-quantum-threats). Fortinet. Jul 22, 2025.
 - [Post-Quantum Cryptography in Kubernetes](https://kubernetes.io/blog/2025/07/18/pqc-in-k8s/). Kubernetes. Jul 18, 2025.
 - [Prepare your network for quantum-secure encryption in TLS](https://support.apple.com/en-us/122756). Apple. June 09, 2025.
