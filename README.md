@@ -17,25 +17,32 @@ Whether you’re a **developer**, **researcher**, or **security architect**, thi
 
 
 ## Table of Contents
-1. [Standards](#standards)
-2. [Books and Handbooks](#books-and-handbooks)
-3. [Conferences and Events](#conferences-and-events)
-4. [Research & Publications](#research-and-publications)
-5. [Migration Guides and Strategies](#migration-guides-and-strategies)
-6. [Implementations](#implementations)
-7. [Communities](#communities)
-8. [Software and Tools](#software-and-tools)
-9. [Talks & Videos](#talks-and-videos)
-10. [IETF](#ietf)
+1. [NIST Standards](#nist-standards)
+2. [IETF](#ietf)
+3. [Books and Handbooks](#books-and-handbooks)
+4. [Conferences and Events](#conferences-and-events)
+5. [Research & Publications](#research-and-publications)
+6. [Migration Guides and Strategies](#migration-guides-and-strategies)
+7. [Implementations](#implementations)
+8. [Communities](#communities)
+9. [Software and Tools](#software-and-tools)
+10. [Talks & Videos](#talks-and-videos)
 11. [Contributions](#contributions)
 
 
 ---
+## NIST Standards
+- [FIPS 203 - ML-KEM](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.203.pdf) Module-Lattice-Based Key-Encapsulation Mechanism Standard (CRYSTALS-Kyber derived). Aug 13, 2024.
+- [FIPS 204 - ML-DSA](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.204.pdf) Module-Lattice-Based Digital Signature Standard (CRYSTALS-Dilithium derived). Aug 13, 2024.
+- [FIPS 205 - SLH-DSA](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.205.pdf) Stateless Hash-Based Digital Signature Standard. (SPHINCS+ derived). Aug 13, 2024.
 
-## Standards
-- [FIPS 203](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.203.pdf) ML-KEM (Module-Lattice-Based Key-Encapsulation Mechanism Standard). Derived from CRYSTALS-Kyber. Aug 13, 2024.
-- [FIPS 204](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.204.pdf) ML-DSA (Module-Lattice-Based Digital Signature Standard). Derived from CRYSTALS-Dilithium. Aug 13, 2024.
-- [FIPS 205](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.205.pdf) SLH-DSA (Stateless Hash-Based Digital Signature Standard). Derived from SPHINCS+. Aug 13, 2024.
+## IETF
+#### RFC:
+- [RFC 9881. Internet X.509 Public Key Infrastructure - Algorithm Identifiers for the Module-Lattice-Based Digital Signature Algorithm (ML-DSA)](https://www.rfc-editor.org/rfc/rfc9881.html). Status: Proposed Standard. Oct, 2025.
+- [RFC 9794. Terminology for Post-Quantum Traditional Hybrid Schemes](https://www.rfc-editor.org/rfc/rfc9794.html). Status: Informational. June 2025.
+#### Drafts:
+- [TLS Key Share Prediction](https://datatracker.ietf.org/doc/draft-ietf-tls-key-share-prediction)
+- [Hybrid key exchange in TLS 1.3](https://datatracker.ietf.org/doc/html/draft-ietf-tls-hybrid-design)
 
 ## Books and Handbooks
 - [The PQC Migration Handbook](https://english.aivd.nl/publications/publications/2024/12/3/the-pqc-migration-handbook). AIVD, CWI, TNO. Dec, 2024.
@@ -103,12 +110,7 @@ Whether you’re a **developer**, **researcher**, or **security architect**, thi
 ## Talks and Videos
 - [OpenSSL Conference](https://www.youtube.com/@OpenSSLConference)
 - [PKI Consortium YouTube Channel ](https://youtube.com/@PKIConsortium/)
-
-## IETF
-- [RFC 9881. Internet X.509 Public Key Infrastructure - Algorithm Identifiers for the Module-Lattice-Based Digital Signature Algorithm (ML-DSA)](https://www.rfc-editor.org/rfc/rfc9881.html). Status: Proposed Standard. IETF. Oct, 2025.
-- [RFC 9794. Terminology for Post-Quantum Traditional Hybrid Schemes](https://www.rfc-editor.org/rfc/rfc9794.html). IETF. June 2025.
-- [TLS Key Share Prediction](https://datatracker.ietf.org/doc/draft-ietf-tls-key-share-prediction)
-- [Hybrid key exchange in TLS 1.3](https://datatracker.ietf.org/doc/html/draft-ietf-tls-hybrid-design)
+- 
  
 ## Contributions
 
