@@ -34,9 +34,9 @@ Whether you’re a **developer**, **researcher**, or **security architect**, thi
 ## NIST Standards
 - [Post-Quantum Cryptography](https://www.nist.gov/pqcrypto)
 #### Finalized PQC Standards
-- [ML-KEM - FIPS 203](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.203.pdf) Module-Lattice-Based Key-Encapsulation Mechanism Standard (CRYSTALS-Kyber derived). Aug 13, 2024.
-- [ML-DSA - FIPS 204](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.204.pdf) Module-Lattice-Based Digital Signature Standard (CRYSTALS-Dilithium derived). Aug 13, 2024.
-- [SLH-DSA - FIPS 205](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.205.pdf) Stateless Hash-Based Digital Signature Standard. (SPHINCS+ derived). Aug 13, 2024.
+- [ML-KEM - FIPS 203](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.203.pdf) Module-Lattice-Based Key-Encapsulation Mechanism Standard ([CRYSTALS-Kyber](https://pq-crystals.org/kyber/) derived). Aug 13, 2024.
+- [ML-DSA - FIPS 204](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.204.pdf) Module-Lattice-Based Digital Signature Standard ([CRYSTALS-Dilithium](https://pq-crystals.org/dilithium/) derived). Aug 13, 2024.
+- [SLH-DSA - FIPS 205](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.205.pdf) Stateless Hash-Based Digital Signature Standard. ([SPHINCS+](https://sphincs.org/) derived). Aug 13, 2024.
 #### Additional / Pre-existing Standards
 - [FN - DSA](https://csrc.nist.gov/presentations/2024/navigating-floating-point-challenges-in-falcon) - [(Falcon)](https://falcon-sign.info)
 - [HQC](https://www.nist.gov/news-events/news/2025/03/nist-selects-hqc-fifth-algorithm-post-quantum-encryption) - [(Hamming Quasi-Cyclic)](https://pqc-hqc.org/). Backup for ML-KEM. March 11, 2025
