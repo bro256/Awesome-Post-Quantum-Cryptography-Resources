@@ -32,9 +32,11 @@ Whether you’re a **developer**, **researcher**, or **security architect**, thi
 
 ---
 ## NIST Standards
-- [FIPS 203 - ML-KEM](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.203.pdf) Module-Lattice-Based Key-Encapsulation Mechanism Standard (CRYSTALS-Kyber derived). Aug 13, 2024.
-- [FIPS 204 - ML-DSA](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.204.pdf) Module-Lattice-Based Digital Signature Standard (CRYSTALS-Dilithium derived). Aug 13, 2024.
-- [FIPS 205 - SLH-DSA](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.205.pdf) Stateless Hash-Based Digital Signature Standard. (SPHINCS+ derived). Aug 13, 2024.
+- [Post-Quantum Cryptography](https://www.nist.gov/pqcrypto)
+#### Finalized PQC Standards
+- [ML-KEM - FIPS 203](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.203.pdf) Module-Lattice-Based Key-Encapsulation Mechanism Standard (CRYSTALS-Kyber derived). Aug 13, 2024.
+- [ML-DSA - FIPS 204](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.204.pdf) Module-Lattice-Based Digital Signature Standard (CRYSTALS-Dilithium derived). Aug 13, 2024.
+- [SLH-DSA - FIPS 205](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.205.pdf) Stateless Hash-Based Digital Signature Standard. (SPHINCS+ derived). Aug 13, 2024.
 
 ## IETF
 #### RFC:
