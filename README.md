@@ -37,9 +37,10 @@ Whether you’re a **developer**, **researcher**, or **security architect**, thi
 - [ML-KEM - FIPS 203](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.203.pdf) Module-Lattice-Based Key-Encapsulation Mechanism Standard (CRYSTALS-Kyber derived). Aug 13, 2024.
 - [ML-DSA - FIPS 204](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.204.pdf) Module-Lattice-Based Digital Signature Standard (CRYSTALS-Dilithium derived). Aug 13, 2024.
 - [SLH-DSA - FIPS 205](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.205.pdf) Stateless Hash-Based Digital Signature Standard. (SPHINCS+ derived). Aug 13, 2024.
-#### Pre-existing standards
+#### Additional / Pre-existing Standards
 - [FN - DSA](https://csrc.nist.gov/presentations/2024/navigating-floating-point-challenges-in-falcon) - [(Falcon)](https://falcon-sign.info)
 - [HQC](https://www.nist.gov/news-events/news/2025/03/nist-selects-hqc-fifth-algorithm-post-quantum-encryption) - [(Hamming Quasi-Cyclic)](https://pqc-hqc.org/). Backup for ML-KEM. March 11, 2025
+- [NIST SP 800-208](https://csrc.nist.gov/pubs/sp/800/208/final), Recommendation for Stateful Hash-Based Signature Schemes [LMS](https://www.rfc-editor.org/rfc/rfc8554.html), [XMSS](https://datatracker.ietf.org/doc/html/rfc8391)
 
 ## IETF
 #### RFC:
