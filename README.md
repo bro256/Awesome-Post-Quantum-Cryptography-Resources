@@ -1,5 +1,5 @@
-# 🔒 Awesome Post-Quantum Cryptography Resources
-A curated collection of cutting-edge resources on **post-quantum cryptography (PQC)**.
+# 🔒 Awesome PQC (Post Quantum Cryptography) Resources
+A curated collection of cutting-edge resources on **PQC (post quantum cryptography)**.
 
 ![Last Commit](https://img.shields.io/github/last-commit/bro256/Awesome-Post-Quantum-Cryptography-Resources?label=Last%20Updated)
 
@@ -46,8 +46,9 @@ Whether you’re a **developer**, **researcher**, or **security architect**, thi
 #### RFC:
  -[RFC 9882. Use of the ML-DSA Signature Algorithm in the Cryptographic Message Syntax (CMS)](https://www.rfc-editor.org/rfc/rfc9882.html). Status: Proposed Standard. Oct, 2025.
 - [RFC 9881. Internet X.509 Public Key Infrastructure - Algorithm Identifiers for the Module-Lattice-Based Digital Signature Algorithm (ML-DSA)](https://www.rfc-editor.org/rfc/rfc9881.html). Status: Proposed Standard. Oct, 2025.
-- [RFC 9794. Terminology for Post-Quantum Traditional Hybrid Schemes](https://www.rfc-editor.org/rfc/rfc9794.html). Status: Informational. Jun 2025.
-- [RFC 8554. LMS. Leighton-Micali Hash-Based Signatures](https://www.rfc-editor.org/rfc/rfc8554.html). Status: Informational. Apr 2019
+- [RFC 9814. Use of the SLH-DSA Signature Algorithm in the Cryptographic Message Syntax (CMS)](https://www.rfc-editor.org/rfc/rfc9814.html). Jul, 2025.
+- [RFC 9794. Terminology for Post-Quantum Traditional Hybrid Schemes](https://www.rfc-editor.org/rfc/rfc9794.html). Status: Informational. Jun, 2025.
+- [RFC 8554. LMS. Leighton-Micali Hash-Based Signatures](https://www.rfc-editor.org/rfc/rfc8554.html). Status: Informational. Apr, 2019
 #### Drafts:
 - [Composite ML-DSA for use in X.509 Public Key Infrastructure](https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-sigs/)
 - [Post-quantum hybrid ECDHE-MLKEM Key Agreement for TLSv1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-ecdhe-mlkem/)
