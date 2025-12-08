@@ -8,10 +8,10 @@ Quantum computers will one day be powerful enough to break today’s widely used
 To prepare for this shift, **post-quantum cryptography (PQC)** is being developed to ensure our digital world remains secure in the quantum era.
 
 This repository brings together:
-- 📜 **Standards & drafts** from NIST, IETF, and other bodies.
-- 📚 **Handbooks, guides, and migration strategies** for organizations.
-- 🛠 **Implementations, tools, and software** to experiment with PQC today.
-- 🔬 **Research papers, publications, and events** driving the field forward.
+- **Standards & drafts** from NIST, IETF, and other bodies.
+- **Handbooks, guides, and migration strategies** for organizations.
+- **Implementations, tools, and software** to experiment with PQC today.
+- **Research papers, publications, and events** driving the field forward.
 
 Whether you’re a **developer**, **researcher**, or **security architect**, this list will help you stay up-to-date and navigate the transition toward **quantum-resistant cryptographic systems**.
 
@@ -44,6 +44,7 @@ Whether you’re a **developer**, **researcher**, or **security architect**, thi
 
 ## IETF
 #### RFC:
+ -[RFC 9882. Use of the ML-DSA Signature Algorithm in the Cryptographic Message Syntax (CMS)](https://www.rfc-editor.org/rfc/rfc9882.html). Status: Proposed Standard. Oct, 2025.
 - [RFC 9881. Internet X.509 Public Key Infrastructure - Algorithm Identifiers for the Module-Lattice-Based Digital Signature Algorithm (ML-DSA)](https://www.rfc-editor.org/rfc/rfc9881.html). Status: Proposed Standard. Oct, 2025.
 - [RFC 9794. Terminology for Post-Quantum Traditional Hybrid Schemes](https://www.rfc-editor.org/rfc/rfc9794.html). Status: Informational. Jun 2025.
 - [RFC 8554. LMS. Leighton-Micali Hash-Based Signatures](https://www.rfc-editor.org/rfc/rfc8554.html). Status: Informational. Apr 2019
