@@ -44,7 +44,7 @@ Whether you’re a **developer**, **researcher**, or **security architect**, thi
 
 ## IETF
 #### RFC:
- -[RFC 9882. Use of the ML-DSA Signature Algorithm in the Cryptographic Message Syntax (CMS)](https://www.rfc-editor.org/rfc/rfc9882.html). Status: Proposed Standard. Oct, 2025.
+- [RFC 9882. Use of the ML-DSA Signature Algorithm in the Cryptographic Message Syntax (CMS)](https://www.rfc-editor.org/rfc/rfc9882.html). Status: Proposed Standard. Oct, 2025.
 - [RFC 9881. Internet X.509 Public Key Infrastructure - Algorithm Identifiers for the Module-Lattice-Based Digital Signature Algorithm (ML-DSA)](https://www.rfc-editor.org/rfc/rfc9881.html). Status: Proposed Standard. Oct, 2025.
 - [RFC 9814. Use of the SLH-DSA Signature Algorithm in the Cryptographic Message Syntax (CMS)](https://www.rfc-editor.org/rfc/rfc9814.html). Jul, 2025.
 - [RFC 9794. Terminology for Post-Quantum Traditional Hybrid Schemes](https://www.rfc-editor.org/rfc/rfc9794.html). Status: Informational. Jun, 2025.
