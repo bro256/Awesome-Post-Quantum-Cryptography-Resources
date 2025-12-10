@@ -51,9 +51,11 @@ Whether you’re a **developer**, **researcher**, or **security architect**, thi
 - [RFC 8554. LMS. Leighton-Micali Hash-Based Signatures](https://www.rfc-editor.org/rfc/rfc8554.html). Status: Informational. Apr 2019.
 - [RFC 8391. XMSS: eXtended Merkle Signature Scheme](https://www.rfc-editor.org/rfc/rfc8391.html). Status: Informational. May 2018.
 #### Drafts:
-- [Post-Quantum Cryptography for Engineers](https://datatracker.ietf.org/doc/draft-ietf-pquip-pqc-engineers/14/)
+- [Post-Quantum Cryptography for Engineers](https://datatracker.ietf.org/doc/draft-ietf-pquip-pqc-engineers)
 - [Post-quantum hybrid ECDHE-MLKEM Key Agreement for TLSv1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-ecdhe-mlkem)
 - [Hybrid key exchange in TLS 1.3](https://datatracker.ietf.org/doc/html/draft-ietf-tls-hybrid-design)
+- [Adapting Constrained Devices for Post-Quantum Cryptography](https://datatracker.ietf.org/doc/draft-ietf-pquip-pqc-hsm-constrained)
+- [PQ/T Hybrid Key Exchange with ML-KEM in SSH](https://datatracker.ietf.org/doc/draft-ietf-sshm-mlkem-hybrid-kex)
 - [Composite ML-DSA for use in X.509 Public Key Infrastructure](https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-sigs)
 - [ML-DSA for Web Authentication](https://datatracker.ietf.org/doc/draft-vitap-ml-dsa-webauthn)
 - [TLS Key Share Prediction](https://datatracker.ietf.org/doc/draft-ietf-tls-key-share-prediction)
