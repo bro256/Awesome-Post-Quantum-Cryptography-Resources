@@ -112,6 +112,7 @@ Whether you’re a **developer**, **researcher**, or **security architect**, thi
 ## Implementations
 - [A deeper look at post-quantum cryptography support in Red Hat OpenShift 4.20 control plane](https://www.redhat.com/en/blog/deeper-look-post-quantum-cryptography-support-red-hat-openshift-420-control-plane). Red Hat. Nov 11, 2025.
 - [Post-Quantum Cryptography APIs Now Generally Available on Microsoft Platforms](https://techcommunity.microsoft.com/blog/microsoft-security-blog/post-quantum-cryptography-apis-now-generally-available-on-microsoft-platforms/4469093). Microsoft. Nov 18, 2025.
+- [How to Become Quantum-Ready Today: Luna HSM v7.9 Delivers Real-World PQC, Validated by Thales PKI Technology Partners](https://cpl.thalesgroup.com/blog/encryption/luna-hsm-pqc-quantum-safe-encryption). Thales. Jul 29, 2025.
 - [Fortinet adds quantum-safe encryption to FortiOS 7.6 update](https://www.fortinet.com/corporate/about-us/newsroom/press-releases/2025/fortinet-advances-quantum-safe-security-to-guard-against-emerging-quantum-threats). Fortinet. Jul 22, 2025.
 - [Post-Quantum Cryptography in Kubernetes](https://kubernetes.io/blog/2025/07/18/pqc-in-k8s/). Kubernetes. Jul 18, 2025.
 - [Prepare your network for quantum-secure encryption in TLS](https://support.apple.com/en-us/122756). Apple. June 09, 2025.
