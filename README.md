@@ -64,6 +64,7 @@ Whether you’re a **developer**, **researcher**, or **security architect**, thi
 - [TLS Key Share Prediction](https://datatracker.ietf.org/doc/draft-ietf-tls-key-share-prediction)
 - [Commercial National Security Algorithm (CNSA) Suite Profile for SSH](https://datatracker.ietf.org/doc/draft-becker-cnsa2-ssh-profile)
 - [PQ/T Composite Schemes for OpenPGP using NIST and Brainpool Elliptic Curve Domain Parameters](https://datatracker.ietf.org/doc/draft-ietf-openpgp-nist-bp-comp)
+- [Quantum-Resistant Cipher Suites for EDHOC](https://datatracker.ietf.org/doc/draft-spm-lake-pqsuites/)
 
 ## Books and Handbooks
 - [The PQC Migration Handbook](https://english.aivd.nl/publications/publications/2024/12/3/the-pqc-migration-handbook). AIVD, CWI, TNO. Dec, 2024.
