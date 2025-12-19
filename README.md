@@ -25,7 +25,7 @@ Whether you’re a **developer**, **researcher**, or **security architect**, thi
 6. [Research & Publications](#research-and-publications)
 7. [Implementations](#implementations)
 8. [Communities](#communities)
-9. [Software and Tools](#software-and-tools)
+9. [Software, Tools, Libraries](#software-tools-libraries)
 10. [Talks & Videos](#talks-and-videos)
 11. [Contributions](#contributions)
 
@@ -132,7 +132,8 @@ Whether you’re a **developer**, **researcher**, or **security architect**, thi
 ## Communities
 - [PKI Consortium](https://pkic.org/)
 
-## Software and Tools
+## Software, Tools, Libraries
+ - [OpenSSL](https://openssl-library.org/)
  - [Open Quantum Safe](https://openquantumsafe.org/)
 
 ## Talks and Videos
