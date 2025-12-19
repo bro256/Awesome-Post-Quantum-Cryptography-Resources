@@ -1,4 +1,4 @@
-# 🔒 Awesome PQC (Post Quantum Cryptography) Resources
+# Awesome PQC (Post Quantum Cryptography) Resources
 A curated collection of cutting-edge resources on **PQC (post quantum cryptography)**.
 
 ![Last Commit](https://img.shields.io/github/last-commit/bro256/Awesome-Post-Quantum-Cryptography-Resources?label=Last%20Updated)
@@ -135,6 +135,7 @@ Whether you’re a **developer**, **researcher**, or **security architect**, thi
 ## Software, Tools, Libraries
  - [OpenSSL](https://openssl-library.org/)
  - [Open Quantum Safe](https://openquantumsafe.org/)
+ - [PQClean](https://github.com/PQClean/PQClean/)
 
 ## Talks and Videos
 - [OpenSSL Conference](https://www.youtube.com/@OpenSSLConference)
