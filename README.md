@@ -98,6 +98,7 @@ Whether you’re a **developer**, **researcher**, or **security architect**, thi
 - [Post Quantum Computing Security](https://www.5gamericas.org/wp-content/uploads/2025/02/WP_PQCS-.pdf). 5G Americas. Feb, 2025.
 - [Guidance on securely configuring network protocols](https://www.cyber.gc.ca/en/guidance/guidance-securely-configuring-network-protocols-itsp40062). Canadian Centre for Cyber Security. Jan, 2025.
 - [Quantum Threat Timeline Report 2024](https://globalriskinstitute.org/publication/2024-quantum-threat-timeline-report/). Global Risk Institute. Dec 6, 2024.
+- [AWS post-quantum cryptography migration plan](https://aws.amazon.com/blogs/security/aws-post-quantum-cryptography-migration-plan/). AWS. 5 Dec, 2024.
 - [Securing Tomorrow, Today: Transitioning to Post-Quantum Cryptography](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Crypto/PQC-joint-statement.pdf?__blob=publicationFile&v=3). BSI. Nov 27, 2024.
 - [NIST IR 8547 (Initial Public Draft)](https://csrc.nist.gov/pubs/ir/8547/ipd): Transition to Post-Quantum Cryptography Standards. NIST. Nov 24, 2024.
 - [A look at the latest post-quantum signature standardization candidates](https://blog.cloudflare.com/another-look-at-pq-signatures/). Cloudflare. Nov 7, 2024.
@@ -162,6 +163,6 @@ This project thrives on community input — from researchers, engineers, and ent
 - **Pull Requests (preferred):** Add your resource directly to the right section.
 - **Issues:** If you’re unsure where something fits, open an issue with details.
 
-📌 Please use this format when adding resources:
+Please use this format when adding resources:
 - [Title](URL) — Short description. Organization/Author. Month Day, Year.
 
