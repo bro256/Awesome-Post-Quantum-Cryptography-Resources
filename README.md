@@ -175,6 +175,7 @@ Whether you’re a **developer**, **researcher**, or **security architect**, thi
  - [OpenSSL](https://openssl-library.org/)
  - [Open Quantum Safe](https://openquantumsafe.org/)
  - [PQClean](https://github.com/PQClean/PQClean/)
+ - [quantakrypto pqc-tools](https://quantakrypto.com/tools) — Open-source scanner + CycloneDX CBOM generator that finds quantum-vulnerable crypto in code/config/dependencies and gives NIST ML-KEM/ML-DSA/SLH-DSA migration guidance. quantakrypto. 2026. ([source](https://github.com/quantakrypto/pqc-tools))
 
 ## Talks and Videos
 - [OpenSSL Conference](https://www.youtube.com/@OpenSSLConference)
